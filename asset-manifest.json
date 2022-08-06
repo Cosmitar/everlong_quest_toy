@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/everlong_quest_toy/static/css/main.7839665a.css",
-    "main.js": "/everlong_quest_toy/static/js/main.8af2acc3.js",
+    "main.js": "/everlong_quest_toy/static/js/main.08f42664.js",
     "static/js/787.7078925f.chunk.js": "/everlong_quest_toy/static/js/787.7078925f.chunk.js",
     "index.html": "/everlong_quest_toy/index.html",
     "main.7839665a.css.map": "/everlong_quest_toy/static/css/main.7839665a.css.map",
-    "main.8af2acc3.js.map": "/everlong_quest_toy/static/js/main.8af2acc3.js.map",
+    "main.08f42664.js.map": "/everlong_quest_toy/static/js/main.08f42664.js.map",
     "787.7078925f.chunk.js.map": "/everlong_quest_toy/static/js/787.7078925f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7839665a.css",
-    "static/js/main.8af2acc3.js"
+    "static/js/main.08f42664.js"
   ]
 }
